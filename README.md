@@ -1,4 +1,4 @@
-# Conversational PDF Analyzer
+# Chat With PDF
 
 This repository contains a Python-based application that allows users to interact with a PDF document using natural language queries. The application utilizes advanced language models and vector stores to provide accurate and relevant responses to user questions based on the content of the uploaded PDF file.
 
