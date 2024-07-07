@@ -2,6 +2,8 @@
 
 This repository contains a Python-based application that allows users to interact with a PDF document using natural language queries. The application utilizes advanced language models and vector stores to provide accurate and relevant responses to user questions based on the content of the uploaded PDF file.
 
+https://github.com/patil1001/chat-with-pdf/assets/118909320/966492ab-36ae-487b-87eb-6fe5620e1061
+
 ## Features
 
 - **PDF Processing:** Upload and process PDF files to extract text content.
